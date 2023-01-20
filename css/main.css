@@ -1,0 +1,56 @@
+.header{
+    padding-top: 5rem;
+    background-color: red;
+    padding-bottom: 5rem;
+}
+.header-text{
+    font-size: 5rem;
+    color: white;
+    text-align: center;
+}
+.footer{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.footer-center{
+    font-size: 2rem;
+    text-align: center;
+    color: beige;
+}
+.topnav{
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    background-color: black;
+}
+.btn{
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+.btn-main{
+    background-color: grey;
+}
+.img-size{
+    width: 140px;
+    height: 140px;
+}
+.bg-primary-mod{
+    background-color: wheat;
+}
+.cashier-left{
+    padding-left: 40%;
+}
+.main_content{
+    padding-top: 20%;
+    padding-bottom: 20%;
+    background-image: url("../pic/bkg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-main{
+    font-size: 3.5rem;
+    color: white;
+    background-color:black;
+    opacity: 75%;
+}
